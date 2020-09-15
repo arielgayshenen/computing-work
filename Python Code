@@ -1,2 +1,2 @@
 From microbit import*
-display.scroll(Image.butterfly)
+display.scroll(Image.Butterfly)
