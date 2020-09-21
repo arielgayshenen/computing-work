@@ -1,2 +1,2 @@
-From microbit import*
-display.scroll(Image.BUTTERFLY)
+from microbit import*
+display.show(Image.BUTTERFLY)
